@@ -1,7 +1,7 @@
 # Coin Dashboard
 This dashboard is designed to give a quick overview of your mining stats and coin values.
 
-![alt text](https://https://github.com/chris-malin/Mining-Dashboard/build/dashboard.jpg?raw=true)
+![alt text](https://github.com/chris-malin/Mining-Dashboard/build/dashboard.jpg?raw=true)
 
 ## Deploy
 1. Fork/clone the repo.
